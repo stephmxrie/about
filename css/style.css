@@ -1,25 +1,4 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
 
-/*!
-THEME: Kross - Creative Portfolio Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
-
-HOMEPAGE: https://themefisher.com/products/kross-creative-portfolio-template/
-DEMO: https://demo.themefisher.com/kross/
-GITHUB: https://github.com/themefisher/meghna-onepage-html5-business-template
-
-Get HUGO Version : https://gethugothemes.com/products/kross-hugo-theme/
-
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
-*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400");
 body {
@@ -737,7 +716,7 @@ blockquote {
 }
 
 .page-title-alt {
-  padding: 350px 0 70px;
+  padding: 70px 0 70px;
 }
 
 .border-thick {
@@ -766,7 +745,7 @@ blockquote {
 .page-title-alt .bg-shape-2 {
   position: absolute;
   left: 70px;
-  top: 100px;
+  top: 50px;
 }
 .page-title-alt .bg-shape-3 {
   position: absolute;
